@@ -9,7 +9,7 @@
 #home{
     background-image: url(../assets/images/home-bg.jpg);
     
-    height: 108vh;
+    height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
